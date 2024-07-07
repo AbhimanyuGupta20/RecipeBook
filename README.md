@@ -1,5 +1,5 @@
 # RecipeBook
-This is my submission for the Fetch iOS Coding Challenge. 
+This is my submission for the Fetch iOS Coding Challenge. My code is in RecipeBook/RecipeBook/ContentView.swift
 
 ### Overview
 My code makes a simple application that presents a list of desserts from an API(https://themealdb.com/api/json/v1/1/filter.php?c=Dessert) with images for each one. It allows users to click on each dessert and view details about it, and navigate back to the full list of desserts. 
